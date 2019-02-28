@@ -1,1 +1,1 @@
-# SNP
+# SNP calling
